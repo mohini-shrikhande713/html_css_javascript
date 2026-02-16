@@ -1,1 +1,2 @@
 # html_css_javascript
+# This project is a web-based implementation of the classic Tic-Tac-Toe game, also known as Noughts and Crosses. It is built using HTML, CSS, and vanilla JavaScript, offering a simple, interactive, and responsive user experience. Players can take turns marking "X" and "O" on a 3x3 grid, with the goal of getting three in a row horizontally, vertically, or diagonally. The game automatically detects wins and draws and includes a reset option to start a new game. 
